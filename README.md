@@ -25,10 +25,7 @@ To get started, check out <https://flyve-mdm.com/>!
 
 ## Synopsis
 
-This library help you to create a complete inventory of your Android devices: both hardware and software informations are collected. You get the data about processor, memory, drives, sensors, etc. and also the list and description of installed application on any devices in a beautifull XML as protocol compatible with FusionInventory for GLPI.
-
-You can find more information here:
-<http://fusioninventory.org/documentation/dev/spec/protocol/inventory.html>
+TBF
 
 ## Build Status
 
