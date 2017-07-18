@@ -7,7 +7,6 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/flyvemdm)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![GitHub release](https://img.shields.io/github/release/flyve-mdm/flyve-mdm-blackberry-agent.svg)](https://github.com/flyve-mdm/flyve-mdm-blackberry-agent/releases)
-[![Maven Central](https://img.shields.io/maven-central/v/com.flyvemdm/inventory.svg)](https://bintray.com/flyve-mdm/inventory/flyve-mdm-blackberry-agent/)
 
 Flyve MDM is a Mobile device management software that enables you to secure and manage all the mobile devices of your business or family via a web-based console.
 
@@ -19,6 +18,7 @@ To get started, check out <https://flyve-mdm.com/>!
 * [Build Status](#build-status)
 * [Installation](#installation)
 * [Documentation](#documentation)
+* [Versioning](#versioning)
 * [Contribute](#contribute)
 * [Contact](#contact)
 * [Copying](#copying)
@@ -41,16 +41,22 @@ TBF
 
 We share long-form content about the project in the [wiki](https://github.com/flyve-mdm/flyve-mdm-blackberry-agent/wiki).
 
-## Contact
+## Versioning
 
-For notices about major changes and general discussion of Flyve MDM development, subscribe to the [/r/FlyveMDM](http://www.reddit.com/r/FlyveMDM) subreddit.
-You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm]).
-Ping me @rafaelje in the IRC chatroom if you get stuck.
+In order to provide transparency on our release cycle and to maintain backward compatibility, Flyve MDM is maintained under [the Semantic Versioning guidelines](http://semver.org/). We are committed to following and complying with the rules, the best we can.
+
+See [the tags section of our GitHub project](http://github.com/flyve-mdm/flyve-mdm-blackberry-agent/tags) for changelogs for each release version of Flyve MDM. Release announcement posts on [the official Teclib' blog](http://www.teclib-edition.com/en/communities/blog-posts/) contain summaries of the most noteworthy changes made in each release.
 
 ## Contribute
 
 Want to file a bug, contribute some code, or improve documentation? Excellent! Read up on our
 guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues in the [Issues Dashboard](https://github.com/flyve-mdm/flyve-mdm-blackberry-agent/issues).
+
+## Contact
+
+For notices about major changes and general discussion of Flyve MDM development, subscribe to the [/r/FlyveMDM](http://www.reddit.com/r/FlyveMDM) subreddit.
+You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm]).
+Ping me @rafaelje in the IRC chatroom if you get stuck.
 
 ## Copying
 
