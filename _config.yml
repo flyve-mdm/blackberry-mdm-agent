@@ -1,6 +1,9 @@
+title: blackberry agent
 email: ml-flyvemdm@teclib.com
-baseurl: "/flyve-mdm-blackberry-agent" 
-url: "http://flyve.org" 
+twitter: flyvemdm
+baseurl: "/flyve-mdm-blackberry-agent"
+url: "http://flyve.org"   
+image: http://flyve.org/flyve-mdm-blackberry-agent/images/logo2.png
 
 # Build settings
 markdown: kramdown
