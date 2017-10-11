@@ -10,26 +10,26 @@ TBF
 
 | **Release channel** | **Beta channel** |
 |:---:|:---:|
-| [![Build Status](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-agent.svg?branch=master)](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-agent) | [![Build Status](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-agent.svg?branch=develop)](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-agent) |
+| [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-agent-mdm.svg?branch=master)](https://travis-ci.org/flyve-mdm/blackberry-agent-mdm) | [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-agent-mdm.svg?branch=develop)](https://travis-ci.org/flyve-mdm/blackberry-agent-mdm) |
 
 ## Installation
 
-[<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="60">](https://github.com/flyve-mdm/flyve-mdm-blackberry-agent/releases/latest)
+[<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="60">](https://github.com/flyve-mdm/blackberry-agent-mdm/releases/latest)
 
 ## Documentation
 
-We share long-form content about the project in the [wiki](https://github.com/flyve-mdm/flyve-mdm-blackberry-agent/wiki).
+We share long-form content about the project in the [wiki](https://github.com/flyve-mdm/blackberry-agent-mdm/wiki).
 
 ## Versioning
 
 In order to provide transparency on our release cycle and to maintain backward compatibility, Flyve MDM is maintained under [the Semantic Versioning guidelines](http://semver.org/). We are committed to following and complying with the rules, the best we can.
 
-See [the tags section of our GitHub project](http://github.com/flyve-mdm/flyve-mdm-blackberry-agent/tags) for changelogs for each release version of Flyve MDM. Release announcement posts on [the official Teclib' blog](http://www.teclib-edition.com/en/communities/blog-posts/) contain summaries of the most noteworthy changes made in each release.
+See [the tags section of our GitHub project](http://github.com/flyve-mdm/blackberry-agent-mdm/tags) for changelogs for each release version of Flyve MDM. Release announcement posts on [the official Teclib' blog](http://www.teclib-edition.com/en/communities/blog-posts/) contain summaries of the most noteworthy changes made in each release.
 
 ## Contribute
 
 Want to file a bug, contribute some code, or improve documentation? Excellent! Read up on our
-guidelines for contributing and then check out one of our issues in the [Issues Dashboard](https://github.com/flyve-mdm/flyve-mdm-blackberry-agent/issues).
+guidelines for contributing and then check out one of our issues in the [Issues Dashboard](https://github.com/flyve-mdm/blackberry-agent-mdm/issues).
 
 ## Contact
 
