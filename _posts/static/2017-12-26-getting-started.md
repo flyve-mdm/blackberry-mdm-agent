@@ -5,6 +5,7 @@ published: true
 title: Getting started
 permalink: howtos/getting-started
 description: Welcome to Flyve MDM
+category: user
 ---
 The Flyve MDM Agent for Blackberry allows you to manage the Android devices of your fleet from the dashboard.
 
