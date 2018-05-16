@@ -5,6 +5,8 @@ published: true
 title: How it works
 permalink: howtos/how-it-works
 description: A brief introduction
+category: user
+date: 2017-12-25
 ---
 The Agent will take control of the Blackberry device of your fleet allowing you to manage it by implementing the commands given through the dashboard.
 
